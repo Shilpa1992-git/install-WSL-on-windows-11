@@ -40,11 +40,12 @@ sudo apt update && sudo apt upgrade
 
 7: your local server will be connected to the remote server.
 
-—————————————————————————————————————————————————————————————
+
 ls
 cd
 ls
 batch-9key.pem: (zone identifier)
+
 chmod 400 batch-9key.pem
 
 
