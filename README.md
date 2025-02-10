@@ -1,4 +1,4 @@
-# install-WSL-on-windows-11
+# install WSL on windows-11
 ⏺️Step by Step
 1: Open power Shell as Administrator = Search PowerShell in the start menu right-click and select run as administrator.
 
